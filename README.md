@@ -1,8 +1,14 @@
-<!-- Header animado o de bienvenida -->
+<!-- Header -->
 <h1 align="center">⚡ Juan Carlos Gómez Cortés ⚡</h1>
-<h3 align="center">PhD Engineer | Biomedical Signals | Data Analysis | Experimental Design | AI & Technology Development</h3>
 
-<!-- Badges de contacto y redes sociales -->
+<h3 align="center">
+PhD Engineer | AI & Data Science | Biomedical Signals | Technology Development
+</h3>
+
+<p align="center">
+Building intelligent systems that transform complex data into actionable solutions.
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jcgc9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -10,51 +16,89 @@
   <a href="https://www.researchgate.net/profile/Juan-Gomez-Cortes">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
   </a>
-  <a href="mailto:jgomezdev-ai@users.noreply.github.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=jgomezdev-ai&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-¡Hola! Soy **Juan Carlos**, un apasionado por la **electrónica**, la **instrumentación** y el desarrollo de software utilizando **inteligencia artificial**. 
+I am a PhD Engineer with experience in biomedical instrumentation, signal processing, experimental design, data analysis, and technology development.
 
-- 🔭 Actualmente explorando el mundo de la **Inteligencia Artificial** y las experiencias de **realidad mixta**.
-- 🧪 Experiencia en diseño de sistemas de adquisición de datos y procesamiento enfocado a aplicaciones de bioingenieria y biomedicas.
-- ⚡ Filosofía de trabajo: *"Desarrollo de sistemas de la más alta calidad al fallo, **¿Alguien dijo chamba?**"*
+My work focuses on transforming complex scientific and engineering challenges into practical solutions through programming, artificial intelligence, and data-driven methodologies.
+
+### 🎯 Current Focus
+
+- 🐍 Python Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analysis & Visualization
+- 🧠 Biomedical Signal Processing
+- 🚀 Research & Technology Development
 
 ---
 
-### 🛠️ Mi Arsenal Tecnológico
+## 🏆 Highlights
 
-Aquí están las herramientas que uso para dar vida a mis proyectos. El tamaño de las badges refleja mi nivel de uso profesional.
+- 🎓 PhD in Engineering
+- 📄 Published scientific research
+- 🔬 Experience designing and validating experimental systems
+- 📈 Advanced data analysis and signal processing
+- 💡 Development of biomedical technology solutions
+- 🤝 Mentoring and scientific training experience
+
+---
+
+## 🛠️ Technology Stack
 
 <p align="center">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <!-- MATLAB -->
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <!-- LabVIEW -->
-  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=black" alt="LabVIEW"/>
-  <!-- VHDL -->
-  <img src="https://img.shields.io/badge/VHDL-00599C?style=for-the-badge&logo=v&logoColor=white" alt="VHDL"/>
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/VHDL-00599C?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
 </p>
 
 ---
 
-### 📌 Proyectos Destacados (¡Próximamente!)
+## 🚀 Current Project
 
-Aquí es donde irán mis mejores creaciones.
+Developing AI and data analysis tools for biomedical signal processing and healthcare applications.
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 📌 Featured Projects
+
+### Biomedical Signal Analysis
+
+**Python • NumPy • Pandas**
+
+Analysis and processing of biomedical data for research and technology applications.
+
+---
+
+### Machine Learning Projects
+
+**Python • Scikit-Learn**
+
+Applied machine learning projects focused on classification, prediction and data exploration.
+
+---
+
+### AI for Healthcare & Engineering
+
+**Python • PyTorch**
+
+Exploration of artificial intelligence techniques applied to scientific and engineering challenges.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgomezdev-ai&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -63,14 +107,11 @@ Aquí es donde irán mis mejores creaciones.
 
 ---
 
-### 📫 ¿Cómo contactarme?
+## 📫 Contact
 
-Si quieres colaborar en algún proyecto, hablar de electrónica, IA o simplemente intercambiar ideas, no dudes en escribirme:
-
-- 💼 **LinkedIn:** [jcgc9](https://www.linkedin.com/in/jcgc9/)
-- 📄 **Publicaciones:** [ResearchGate](https://www.researchgate.net/profile/Juan-Gomez-Cortes)
-- 
+- 💼 LinkedIn: www.linkedin.com/in/jcgc9
+- 📄 ResearchGate: www.researchgate.net/profile/Juan-Gomez-Cortes
 
 ---
 
-⭐ **"El trabajo duro vence al talento natural"** 
+> Turning research, data and technology into real-world solutions.
